@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/.smithsra.github.io/tictacktoe/static/css/main.74c759b3.chunk.css",
+    "main.js": "/.smithsra.github.io/tictacktoe/static/js/main.9d38959e.chunk.js",
+    "main.js.map": "/.smithsra.github.io/tictacktoe/static/js/main.9d38959e.chunk.js.map",
+    "runtime-main.js": "/.smithsra.github.io/tictacktoe/static/js/runtime-main.2efe4d45.js",
+    "runtime-main.js.map": "/.smithsra.github.io/tictacktoe/static/js/runtime-main.2efe4d45.js.map",
+    "static/js/2.9e769e9f.chunk.js": "/.smithsra.github.io/tictacktoe/static/js/2.9e769e9f.chunk.js",
+    "static/js/2.9e769e9f.chunk.js.map": "/.smithsra.github.io/tictacktoe/static/js/2.9e769e9f.chunk.js.map",
+    "index.html": "/.smithsra.github.io/tictacktoe/index.html",
+    "static/css/main.74c759b3.chunk.css.map": "/.smithsra.github.io/tictacktoe/static/css/main.74c759b3.chunk.css.map",
+    "static/js/2.9e769e9f.chunk.js.LICENSE.txt": "/.smithsra.github.io/tictacktoe/static/js/2.9e769e9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2efe4d45.js",
+    "static/js/2.9e769e9f.chunk.js",
+    "static/css/main.74c759b3.chunk.css",
+    "static/js/main.9d38959e.chunk.js"
+  ]
+}
